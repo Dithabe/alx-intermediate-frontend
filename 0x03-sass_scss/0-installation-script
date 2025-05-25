@@ -1,1 +1,8 @@
+1. Prerequisites - Check if existing software exists
+//use the commands:
+    node -v
+    npm -v
 
+2.  Primary Installation Method: Dart Sass via npm (Recommended
+//Use the command:
+    npm install -g sass
